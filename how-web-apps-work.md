@@ -19,22 +19,26 @@ CRUD
 * update
 * destroy
 ---
-all data comes from users ...
+all data comes from users
 ---
-no going to grocery store, just use what's in your pantry
+no going to grocery store or sharing w/ other kitchens
+---
+just use what's in your pantry.
+---
+"homemade data"
+---
+![](img/peaches.jpg)
 ---
 APIs
 ---
 apps share data between their kitchens
 ---
-Creative Commons photo attribution:
+![](img/truck.jpg)
+---
+# Creative Commons photo attribution:
 
-freezer -- opengridscheduler on Flickr
-https://www.flickr.com/photos/opengridscheduler/23293476073
-
-kitchen -- Franklin Heijnen on Flickr
-https://www.flickr.com/photos/franklinheijnen/25059038532
-
-waiter -- Sarah Stierch on Flickr
-https://www.flickr.com/photos/sarahvain/35221341092
-
+* freezer -- opengridscheduler on Flickr https://www.flickr.com/photos/opengridscheduler/23293476073
+* kitchen -- Franklin Heijnen on Flickr https://www.flickr.com/photos/franklinheijnen/25059038532
+* waiter -- Sarah Stierch on Flickr https://www.flickr.com/photos/sarahvain/35221341092
+* peaches -- Stevie Rocco on Flickr https://www.flickr.com/photos/stevier/2765946063
+* truck -- raymondclarkeimages on Flickr https://www.flickr.com/photos/rclarkeimages/7877057300
