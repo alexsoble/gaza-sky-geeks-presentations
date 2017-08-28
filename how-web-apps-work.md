@@ -35,6 +35,13 @@ apps share data between their kitchens
 ---
 ![](img/truck.jpg)
 ---
+takeaways:
+
+* just like food, can be very simple or complex
+* (simple is good!)
+* start with the raw ingredients (data)
+* then think about how to present it
+---
 # Creative Commons photo attribution:
 
 * freezer -- opengridscheduler on Flickr https://www.flickr.com/photos/opengridscheduler/23293476073
