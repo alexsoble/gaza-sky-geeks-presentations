@@ -4,13 +4,27 @@ database (stores information)
 ---
 ![](img/freezer.jpg)
 ---
-app i.e. rails (gets it ready)
+* postgres
+* MySQL
+* (stores data)
+---
+app (gets it ready)
 ---
 ![](img/kitchen.jpg)
+---
+* ruby/rails
+* python/django
+* node.js
+* PHP
+* (prepares data)
 ---
 front end (serves it)
 ---
 ![](img/waiter.jpg)
+---
+* HTML/CSS
+* JavaScript
+* (displays data)
 ---
 CRUD
 ---
@@ -23,7 +37,7 @@ all data comes from users
 ---
 no going to grocery store or sharing w/ other kitchens
 ---
-just use what's in your pantry.
+just use what's in your pantry
 ---
 "homemade data"
 ---
@@ -35,8 +49,6 @@ apps share data between their kitchens
 ---
 ![](img/truck.jpg)
 ---
-takeaways:
-
 * just like food, can be very simple or complex
 * (simple is good!)
 * start with the raw ingredients (data)
