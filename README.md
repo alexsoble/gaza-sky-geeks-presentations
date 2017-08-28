@@ -4,5 +4,5 @@
 
 # Links
 
-+ https://alexsoble.github.io/gaza-sky-geeks-presentations/13-ways-to-keep-growing.html#0
-+ https://alexsoble.github.io/gaza-sky-geeks-presentations/how-web-apps-work.html#0
++ [13-ways-to-keep-growing](https://alexsoble.github.io/gaza-sky-geeks-presentations/13-ways-to-keep-growing.html#0)
++ [how-web-apps-work](https://alexsoble.github.io/gaza-sky-geeks-presentations/how-web-apps-work.html#0)
