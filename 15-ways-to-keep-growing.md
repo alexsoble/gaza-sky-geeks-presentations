@@ -29,3 +29,5 @@ ways to keep growing as a coder after you graduate
 14 sydwc(ed)
 ---
 15 practice communication & teamwork
+---
+whatsapp: 1-847-373-3608
