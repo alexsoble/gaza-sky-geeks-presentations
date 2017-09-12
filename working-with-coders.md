@@ -28,6 +28,7 @@ after this workshop:
 ---
 * DO idea generation
 * DO idea clustering
+* DO user stories
 * DO paper prototyping
 * KNOW agile
 * KNOW how web apps work
