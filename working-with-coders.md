@@ -19,5 +19,18 @@ how to make the most out of it?
 ---
 to ask the right questions, you need to:
 
-* understand how web technologies work (so you can help with choices)
-* understand how coders work (so you can flow with the process)
+* understand how web technologies work
+* understand how coders work
+---
+after this workshop:
+* what will you know?
+* what will you be able to do?
+---
+* DO idea generation
+* DO idea clustering
+* DO paper prototyping
+* KNOW agile
+* KNOW how web apps work
+* KNOW what's possible
+---
+let's go
