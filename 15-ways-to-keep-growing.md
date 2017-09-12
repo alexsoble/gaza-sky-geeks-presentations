@@ -12,22 +12,26 @@ ways to keep growing as a coder after you graduate
 ---
 6 document things! (in english or another language)
 ---
-7 dig into your pain points
+7 commit to test driven development
 ---
-8 learn from your mistakes
+8 dig into your pain points
 ---
-9 recruit mentors!!!
+9 learn from your mistakes
 ---
-10 blogs like dev.to
+10 recruit mentors!!!
 ---
-11 social media! listen, learn, contribute
+11 blogs like dev.to
 ---
-12 freelance remote
+12 answer questions on s.o.
 ---
-13 pair with your friends
+13 social media! listen, learn, contribute
 ---
-14 sydwc(ed)
+14 freelance remote
 ---
-15 practice communication & teamwork
+15 pair with your friends
+---
+16 sydwc
+---
+17 practice communication & teamwork
 ---
 whatsapp: 1-847-373-3608
