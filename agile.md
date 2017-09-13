@@ -4,10 +4,19 @@ what is agile?
 * test with users at each step
 * change direction based on user feedback
 ---
-***
 metaphor borrowed from code for america long beach team
-[cfa long beach](http://www.cfa-longbeach-2016.org/)
-***
+http://www.cfa-longbeach-2016.org/
+---
+![](img/cookies.jpg)
+---
+![](img/cupcake.jpg)
+---
+![](img/cake.jpg)
+---
+![](img/big-cake.jpg)
+---
+* questions?
+* hungry?
 ---
 * cookies: john smith via flickr https://www.flickr.com/photos/61287964@N00/5714826865/
 * cupcakes: Juliana Muncinelli via flickr https://www.flickr.com/photos/koomi/5477875512

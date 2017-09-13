@@ -9,6 +9,7 @@
 + [working-with-coders](https://alexsoble.github.io/gaza-sky-geeks-presentations/working-with-coders.html#0)
 + [diverge-converge-ideas](https://alexsoble.github.io/gaza-sky-geeks-presentations/diverge-converge-ideas.html#0)
 + [how-web-apps-work](https://alexsoble.github.io/gaza-sky-geeks-presentations/how-web-apps-work.html#0)
++ [agile](https://alexsoble.github.io/gaza-sky-geeks-presentations/agile.html#0)
 
 ## For GSG Sessions
 
