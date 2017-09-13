@@ -15,3 +15,8 @@
 
 + [freelancing](https://alexsoble.github.io/gaza-sky-geeks-presentations/freelancing.html#0)
 + [15-ways-to-keep-growing](https://alexsoble.github.io/gaza-sky-geeks-presentations/15-ways-to-keep-growing.html#0)
+
+# Get in touch!
+
+email: asoble (at gmail)
+wssap: + 1 847 373 3608
