@@ -18,5 +18,5 @@
 
 # Get in touch!
 
-email: asoble (at gmail)
-wssap: + 1 847 373 3608
+## email: asoble (at gmail)
+## wssap: + 1 847 373 3608
