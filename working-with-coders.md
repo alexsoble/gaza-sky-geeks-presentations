@@ -1,16 +1,28 @@
-coder <> ngo collaboration
+ngo + coder collaboration
 ---
-what coders bring:
-* technical skills: apps & sites
-* new ways of thinking/working
-* new connections
-* "beginner's mind!"
+![](img/school-locator-old.jpg)
+---
+![](img/school-locator-new.png)
+---
+![](img/chihacknight.png)
+---
+![](img/is-there-sewage.png)
+---
+![](img/easy-naz.png)
+---
+civic tech
 ---
 what NGOs bring:
 * deep subject matter expertise
 * crucial relationships
 * drive/motivation/accountability
 * project stewardship & management
+---
+what coders bring:
+* technical skills: apps & sites
+* new ways of thinking/working
+* new connections
+* "beginner's mind!"
 ---
 how to collaborate successfully?
 ---
